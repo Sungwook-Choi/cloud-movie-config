@@ -1,1 +1,6 @@
-
+services:
+  datasource: 
+    name: cloud-movie-db
+    initial-size: 1
+    maximum-pool-size: 2
+    max-wait-time: 3000
