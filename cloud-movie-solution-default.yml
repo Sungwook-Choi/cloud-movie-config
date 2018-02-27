@@ -13,3 +13,4 @@ spring:
       
   session:
     store-type: jdbc
+name: sw-default
